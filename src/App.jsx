@@ -157,6 +157,15 @@ const MEMBERS = [
     desc: 'Pure menace, unfiltered destruction. Chaos incarnate.',
     stats: { power: 94, strategy: 86, leadership: 90 }
   },
+ {
+    id: 'ghostraiders',
+    name: 'GHOST RAIDERS',
+    rank: 'The ghost of the Night Riaders',
+    level: 76,
+    avatar: '🔥',
+    desc: 'The Loyal Ghost of the Night raiders clan',
+    stats: { power: 74, strategy: 60, leadership: 52 }
+  },
   {
     id: 'gunslinger',
     name: 'ˢRᴀɪᴅᴇʀ☬✯╾━╤デ╦︻✯★⟵⃪͢',
